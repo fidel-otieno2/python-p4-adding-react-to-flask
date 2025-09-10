@@ -1,0 +1,11 @@
+- [x] Read README.md for project overview
+- [x] Set up Flask server dependencies (pipenv install)
+- [x] Configure Flask environment variables (FLASK_APP, FLASK_RUN_PORT)
+- [x] Run database migration (flask db upgrade)
+- [x] Seed the database (python seed.py)
+- [x] Start Flask development server (python app.py)
+- [x] Install React client dependencies (npm install)
+- [x] Start React development server (npm start)
+- [x] Analyze React components and fetch() usage
+- [x] Examine Flask API endpoints and CORS setup
+- [x] Verify full-stack application functionality
